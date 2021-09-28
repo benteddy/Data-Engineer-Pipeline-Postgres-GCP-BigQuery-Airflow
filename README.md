@@ -29,6 +29,9 @@ These are all libraries you need to install
 The schedule script (dag) is stored in the dags folder. An example of a filename with the format is "Airflow DAG.py"<br/>
 <img src="DAG File Repository.png" width="400" height="155"><br/><br/>
 Here is the DAG script for Airflow process.<br/>`Airflow DAG.py`<br/><br/>
+- **Airflow Process**<br/>
+This is the "Tree View" of DAG.<br/>
+<img src="Airflow Process.png" width="850" height="355"><br/><br/>
 - **Temporary File**<br/>
 Temporary files from postgres database is stored in the "data>benhard" folder.<br/>
 <img src="Temporary File.png" width="420" height="150"><br/><br/>
