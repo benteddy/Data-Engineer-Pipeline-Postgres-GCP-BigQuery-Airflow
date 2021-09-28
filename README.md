@@ -44,6 +44,6 @@ Directory : "benhard"<br/>
 The file from Google Cloud Storage is loaded to datalake in BigQuery.<br/>
 Dataset name : "benhard"<br/>
 <img src="Data Warehouse (BigQuery).png" width="245" height="50"><br/><br/>
-### Visualisasi (Google Data Studio)
+### Visualization (Google Data Studio)
 Data visualization is created from dataset in BigQuery
 <img src="Data Visualization (Google Data Studio).png" width="650" height="450"><br/><br/>
